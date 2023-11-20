@@ -27,8 +27,8 @@
 ## Output:
 
 ```
- Name: G.Chethan kumar
- Register Number: 212222240022
+ Name: SHALINI V
+ Register Number: 212222240096
 ```
 ![image](https://github.com/Gchethankumar/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/118348224/22152441-b012-4b32-b98d-8094f307875f)
 
