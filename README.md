@@ -4,7 +4,7 @@
 ## AIM:
 ### To simulate the construction of delta 3D printer and to get in-depth knowledge of mechatronics of delta 3D printer.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/c784471e-098f-456d-9c1b-e9f0ce56cc9b)
+![image](https://github.com/shalini-venkatesan/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/118720291/2503b88b-8845-424e-86c3-0d96efd4d464)
 
 ## REQUIREMENTS:
 ### ●	System - Windows 7 or higher, 1 GB RAM.
@@ -27,7 +27,7 @@
 ## OUTPUT:
 ### Assembly of Delta 3D Printer: 
 
-![Screenshot 2023-05-20 215719](https://github.com/AsinVardhini/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/119417735/3faafe37-019a-4e10-a7e2-f4362522a158)
+![image](https://github.com/shalini-venkatesan/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/118720291/baf1bb9e-13f5-4d69-89ee-72628a8b7d91)
 
 
 Base :
@@ -94,7 +94,7 @@ various settings and functions.
 
 ### Playing with axes:
 
-![Screenshot 2023-05-20 215820](https://github.com/AsinVardhini/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/119417735/71434f2d-2948-4cb5-9231-5928072801aa)
+![image](https://github.com/shalini-venkatesan/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/118720291/6b9ce2f7-bf00-44b4-8270-04af38f3094d)
 
 ### Name: SHALINI VENKATESAN
 
